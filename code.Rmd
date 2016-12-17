@@ -74,7 +74,7 @@ clinton_unique$text = gsub("\\d+\\w+","",clinton_unique$text)
 ```
 
 ## Sentimental analysis of tweets
-Replace ###s with Microsoft Cognitive Service's Text Analytics API key
+Replace ###s with Microsoft Cognitive Service's Text Analytics API [key](https://www.microsoft.com/cognitive-services/en-us/text-analytics-api)
 ### Trump
 
 ```{r,echo=TRUE}
